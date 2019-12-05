@@ -1,0 +1,15 @@
+
+
+
+
+.socialMedia a {
+  color:  #CBCBCB;
+  list-style: none;
+  font-size: 40px;
+}
+
+.socialMedia li {
+  padding: 0px 10px 10px 0px;
+  display: inline;
+  float: right;
+}

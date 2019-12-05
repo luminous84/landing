@@ -1,0 +1,30 @@
+/*import all google fonts we want to use */
+
+@import url("https://fonts.googleapis.com/css?family=Karla:400|Roboto:400,500&display=swap");
+
+/* import all component files */
+
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/socialMedia.css");
+
+/* general style rules for font and colour */
+
+body {
+  font-family: 'Karla', serif;
+  font-size: 18px;
+  background-color: white;
+  margin: 0px;
+  margin-bottom: 50px;
+}
+
+h1, h2, h3 {
+  font-family:'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
